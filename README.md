@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img alt="calendario" src=".github/preview" width="100%">
+  <img alt="calendario" src=".github/preview.png" width="100%">
 </p>
 
 ## 💻 Projeto foi desenvolvido com as seguintes tecnologias:
